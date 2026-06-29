@@ -1,4 +1,4 @@
-
+instant Hide.me Connector | double-VPN + OpenVPN-support offers the most advanced Hide.me connector, with double-VPN and OpenVPN-support. Ideal for users who value privacy and
 
 
 
